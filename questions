@@ -1,0 +1,201 @@
+What are two ways program risks can be categorized? (Choose two.)
+- Resolved
+- Owned
+
+According to SAFe Principle #10, what should the Enterprise do when markets and customers demand change?
+- Reorganize the network around the new value flow
+
+In a Lean Enterprise, what is the goal of mapping operational Value Streams?
+- To identify and respond to delays
+
+Who commits to the Iteration goals at the end of Iteration planning?
+- The team
+
+Who are two key collaborators with the RTE to support the ART? (Choose two)
+- Product Management
+- System Architects/Engineers
+
+What is the second phase of an Agile Business Team's maturity?
+- Join the value stream
+
+Why is it important to facilitate the Business Agility self-assessment?
+- To drive the conversation and understanding of the meaning behind the self-assessment
+
+In what situation would a team use uncommitted objectives?
+- The team ha sa dependency on an external contractor who has been unreliable in the past.
+
+Which two SAFe configurations are enough to achieve Business Agility
+- Essential
+- Portfolio
+
+What are two reasons organizational leaders should “take a systems view"? (Choose two.)
+- Because some systemic changes that could dramatically improve teams'environments can only be made by leaders
+- To optimiz the system as a whole
+
+In SAFe's CALMR approach to DevOps, what does the "R" represent?
+- Recovery
+
+In SAFe's CALMR approach to DevOps, what CALMR means ?
+- Culture
+- Automation
+- Lean Flow
+- Measurement 
+- Recovery
+
+Which team role was removed from SAFe 5.0?
+- Dev Team
+
+How can learning organizations foster an innovation culture?
+- Create an environment of physiological safety
+
+Which statement is true about multiple Agile Release Train (ART) rollouts?
+- ART rollouts can be done sequentially or in parallel
+
+Which role accepts Capabilities as done?
+- Solution Management
+
+What is one new SAFe 5.0 tool used to express Strategic Themes?
+- Objctives and Key Results (OKRs)
+
+Built-in Quality is a dimension of Team and Technical Agility and what else?
+- A SAFe Core Value
+
+What is the purpose of the Continuous Delivery Pipeline?
+- To move a new piece of functionality from ideation to an on-demand release of value
+
+The Release Train Engineer ensures that Business Owners assign business value to what during Program Increment (PI) Planning?
+- Team-level PI Objectives
+
+What are personas?
+- Fictional representations of target customers of users
+
+What do Work-in-Process constraints create?
+- Forced capacity matching
+
+What are the three dimensions of Lean-Agile Leadership? (Choose three)
+- Lead by example
+- Mindset review and principles
+- Lead the change
+
+Which two SPC resources are intended to aid in arriving at the tipping point?
+- SAFe foundations
+- SAFe Executive workshop Toolkit
+
+What is a SAFe-recommended approach to implement a crosscutting Epic that spans multiple Pls?
+- All Agile Realise Trains and Solution Trains demonstrate their work with respect to the Epic at every PI boundary
+
+Which SAFe Core Competency requires exemplifying the principles and values of lean-agile?
+- Lean-Agile Leadership
+
+What are two ways Lean-Agile leaders can lead the change? (Choose two)
+- Create psychological safety
+- Communicate the change vision
+
+Which statement is true about the SAFe implementation Roadmap?
+- It is strategy and an ordered set of activities and patterns that have proven to be effective in succesfully implementing SAFe
+
+Which statement is true about uncommitted team PI Objectives?
+- They are included in the team's load for the PI
+
+Which SAFe Principle is being applied when a Release Train Engineer treats Suppliers as partners?
+- Apply systems thinking
+
+What is one key reason an organization starts a SAFe transformation?
+- A burning platform; there is an obvious need to change a product or service
+	
+What is the goal of Lean?
+- Sustainable shortest lead time, best quality, and value
+
+What is a key business benefit of SAFe?
+- To adapt quicly to changing technologies and economic conditions
+
+Communities of Practice best solve which problem in a Lean-Agile Enterprise?
+- Optimizing by cross-functional teams
+
+Which two areas do Capabilities live in the SAFe Requirements Model? :(Choose two.)
+- Above Features
+- Under Epics
+
+Which two roles should facilitate an ART sync? (Choose two.)
+- Product Management
+- Realease Train Engineer
+
+When is the Inspect and Adapt event held?
+- At the end of the Program Increment (PI)
+
+What is a benefit of capacity allocation?
+- It ensures different types of backlog items are not compared against one another
+
+What is one way trains and Suppliers can be aligned to a shared business and technology mission?
+- Build and integrate Solution components and Capabilities with Agile Release Trains
+
+What is the purpose of Iteration Goals?
+- To aligne the team members and the PO to the mission
+
+In the SAFe work item hierarchy, Features are decomposed into what?
+- Stories
+
+What are the elements of the Agile Release Train Quick Start approach?
+- SAFe for Temas training, PI Planning, Workshops
+
+What is Lean systems and Solution Engineering?
+- It is the application of Lean-Agile practices to the activities necessary to specify, architect, design, implement, test, deploy, envolve and ultimately decommission
+
+While estimating stories, what is the Scrum Master's key responsibility?
+- Ensure everyone on the team participates
+
+DevOps and what else create the foundation that enables Enterprises to release value on demand?
+- Continous Delivery Pipeline
+
+When looking at a program board at the end of program increment (Pl) planning, what does it mean when a feature is placed in a team's swim lane with no strings?
+- That the feature can be completed by that team independently
+
+Who is part of the development value stream?
+- Everyone used to build the business solutions that customers use
+
+Who is responsible for Lean governance?
+- Lean Portfolio Management
+
+Which statement is true about scrum?
+- It is a team-based framework
+
+In a learning organization, who is focusing on continual learning?
+- Everyone in the organization
+
+The Sustain and Improve step on the SAFe 4.x implementation Roadmap has been replaced by what on the SAFe 5.0 implementation Roadmap?
+- Accelerate
+
+What is the recommended duration of an Iteration in SAFe?
+- Two weeks
+
+During the management review and problem-solving meeting, one team raises the risk of not finishing a Feature before the end of the Program Increment (PI). How can the management team help ensure they complete the Feature within the PI?
+- Negotiate a reduction in scope of the feature
+
+Which statement is true about Model-Based Systems Engineering (MBSE) in SAFe?
+- MBSE allows a team to explore solution options earlier
+
+Why does an SPC provide ongoing program consulting and team coaching?
+- To build the organization's Lean-Agile capabilities
+
+Why is "release” considered on demand and not continuous
+- Release is based on market needs not technical ability
+
+Which three roles are most responsible for ensuring successful execution at the Large Solution Level? (Choose three.)
+- Solution Architecct/Engineeer
+- Solution Train Engineeer
+- Solution Management
+
+What type of objectives are used to identify work that can be variable within the scope of a PI?
+- Uncommitted
+
+Which SAFe event has a goal to drive relentless improvement?
+- Iteration retrospectives
+
+When is one time a Scrum Master may be a participant rather than a facilitator?
+- When using ad hoc teams for Inspect and Adapt
+
+Business Agility cannot be achieved with only Essential SAFe. Why?
+- It lacks the necessary core competencies
+
+
+
