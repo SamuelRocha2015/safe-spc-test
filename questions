@@ -198,4 +198,133 @@ Business Agility cannot be achieved with only Essential SAFe. Why?
 - It lacks the necessary core competencies
 
 
+Why were the SAFe Team and Program levels combined into the Essential level in SAFe 5.0?
+- To explain that implementing teams without Agile release Trains is not a good practice at scale
+
+What is one way to help establish a future state portfolio canvas?
+- Create a TOWS analysis
+
+There are two value stream in SAFe. One is the Operational value Stream. What is the other?
+- Development value Stream
+
+Why has the SAFe House of Lean changed in SAFe 5.0?
+- To align better with the competencies
+
+Why might an organization implement a minimum viable product (MVP) before committingto a more significant investment?
+- To reduce risk by testing the hypothesis.
+
+How does SAFe recommend using a second operating system to deliver value?
+- Organize the enterprise around the flow of value while maintaining hierarchies.
+
+
+When mapping Value Streams what is often the most influential factor to long lead times?
+- Long delays between steps
+
+Developing software or systems on a cadence helps manage what?
+- Variability
+
+What are the steps of the iterative PDCA cycle?
+- Plan, Do, Check, Adjust
+
+What is one way trains and Suppliers can be aligned to a shared business and technology mission?
+- Build and integrate Solution components and Capabilities with Agile Release Trains
+
+Which two SAFe configurations are enough to achieve Business Agility? (Choose two.)
+- Portfolio
+- Full
+
+Which Design Thinking tool helps teams understand what a specific user is thinking, feeling, hearing, and seeing as they use the product?
+- Empathy maps
+
+During which stage of the Continuous Delivery Pipeline should Features be verified in production before the business needs them?
+- Continuous Deployment
+
+How does SAFe recommend using a second operating system to deliver value?
+- Organize the Enterprise around the flow of value while maintaining the hierarchies
+
+What is defined as the ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business solutions?
+- Business Agility
+
+How should organizations view market changes?
+- As opportunities
+
+Which dimension of the Enterprise Solution Delivery competency applies Lean-Agile practices to align and coordinate all the activities necessary to specify, architect, design, implement, test, deploy, evolve, and ultimately decommission Solutions?
+- Lean System and Solution Engineering
+
+Which aspect of strategy and investment funding involves developing and communicating the Strategic Themes throughout the portfolio?
+- Build Portfolio Canvas(?)
+
+Whenever an Enterprise makes a decision, it deeply considers the effect it will have on its end users. What is this statement describing?
+- Customer Centricity
+
+Which team role was removed from SAFe 5.0?
+- Dev Team
+
+What is one way to help establish a future state portfolio canvas?
+- Create a TOWS analysis
+
+Which SAFe Core Competency describes a set of values and practices that encourage the whole Enterprise to increase knowledge, competence, performance, and innovation?
+- Continuous Learning Culture
+
+Enterprise Solution Delivery, Agile Product Delivery, and which other competency are part of the Execution side of the SAFe Business Agility overview?
+- Team and Technical Agility
+
+When expressing Strategic Themes as objectives and key results what are the the key results?
+- A memorable description of what the portfolio wants to achieve through Strategic Themes
+
+Which SAFe competency helps live systems evolve?
+- Enterprise Solution Delivery
+
+Which SAFe House of Lean pillar addresses moving from projects to products?
+- Flow
+
+The accelerate step of the Implementation Roadmap is the beginning of another journey that is based on a foundation of what?
+- Relentless Improvement
+
+Agile Release Trains are organized around the ability to deliver what?
+- Customer Solutions
+
+Which level no longer exists in SAFe 5.0?
+- Team level
+
+What is the goal of psychological safety?
+- To create an environment for responsible risk-taking
+
+How does SAFe provide time and space for innovation?
+- By reserving capacity each Iteration for innovation
+
+What is one way Lean-Agile leaders lead by example?
+- By modeling SAFe’s Lean-Agile Mindset, values, principles, and practices
+
+What are two ways empathetic design impacts Customer Centricity? (Choose two.)
+- It motivates teams to understand and experience the Customer's perspective.
+- It emphasizes user research and Gemba walks.
+
+What is the purpose of the SAFe Implementation Roadmap?
+- To coach an Agile Release Train launch
+
+Who is responsible for Strategy and Investment Funding?
+- Business Owners
+
+How do Lean-thinkingpeople and Agile Teams enable Organizational Agility?
+- By optimizing business processes, evolving strategy, and quickly adapting the organization
+
+What are two goals of the Feature section of the Program Kanban? (Choose two.)  
+- Facilitate Feature readiness
+- Visualize the state of each feature
+
+Which three statements are true about the role of Lean-Agile Leaders? (Choose three.)
+- They embrace the values of Lean
+- They facilitate relentless improvement
+- They proactively eliminate impediments
+
+
+What is the purpose of Solution Intent?
+- To record and communicate the necessary requirements and design decisions
+
+What are three consequences of having long queues? (Choose three.)
+- Lower quality
+- Slower delivery
+- Higher variability
+
 
