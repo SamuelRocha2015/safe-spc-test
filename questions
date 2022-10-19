@@ -239,9 +239,6 @@ Which Design Thinking tool helps teams understand what a specific user is thinki
 During which stage of the Continuous Delivery Pipeline should Features be verified in production before the business needs them?
 - Continuous Deployment
 
-How does SAFe recommend using a second operating system to deliver value?
-- Organize the Enterprise around the flow of value while maintaining the hierarchies
-
 What is defined as the ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business solutions?
 - Business Agility
 
@@ -257,11 +254,6 @@ Which aspect of strategy and investment funding involves developing and communic
 Whenever an Enterprise makes a decision, it deeply considers the effect it will have on its end users. What is this statement describing?
 - Customer Centricity
 
-Which team role was removed from SAFe 5.0?
-- Dev Team
-
-What is one way to help establish a future state portfolio canvas?
-- Create a TOWS analysis
 
 Which SAFe Core Competency describes a set of values and practices that encourage the whole Enterprise to increase knowledge, competence, performance, and innovation?
 - Continuous Learning Culture
@@ -269,7 +261,7 @@ Which SAFe Core Competency describes a set of values and practices that encourag
 Enterprise Solution Delivery, Agile Product Delivery, and which other competency are part of the Execution side of the SAFe Business Agility overview?
 - Team and Technical Agility
 
-When expressing Strategic Themes as objectives and key results what are the the key results?
+When expressing Strategic Themes as objectives and key results what are the key results?
 - A memorable description of what the portfolio wants to achieve through Strategic Themes
 
 Which SAFe competency helps live systems evolve?
@@ -295,6 +287,7 @@ How does SAFe provide time and space for innovation?
 
 What is one way Lean-Agile leaders lead by example?
 - By modeling SAFe’s Lean-Agile Mindset, values, principles, and practices
+- By acting with honesty, integrity and  transparency
 
 What are two ways empathetic design impacts Customer Centricity? (Choose two.)
 - It motivates teams to understand and experience the Customer's perspective.
@@ -328,3 +321,403 @@ What are three consequences of having long queues? (Choose three.)
 - Higher variability
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+What is the last step in Kotter's approach to change management?
+- Anchor new approaches in the culture
+
+In the Program Kanban some steps have Work-in-Process limits. Why is this necessary?
+- To ensure large queues are not being built
+
+What is the recommended way to express a Feature?
+- Phrase, benefit hypothesis, and acceptance criteria
+
+Which statement accurately characterizes Strategic Themes?
+- They are business objectives that connect the SAFe Portfolio to the Enterprise business strategy
+
+
+When does a Roadmap become a queue?
+- When it is longer than one Program Increment
+
+What can be used to map the current state of a portfolio?
+- Portfolio Canvas
+
+Which statement is a principle of the Agile manifesto?
++- Simplicity--the art of maximizing the amount of work not done--is essential
+
+What is found on a program board?
+- Features
+
+On day two of PI Planning, management presents adjustments based on the previous day's management review and problem solving meeting. What is one possible type of adjustment they could make? --------------
+- Business priorities 
+
+
+What is part of the role of Product Management?
+- To prioritize the Program Backlog  
+
+
+What is one guardrail on Lean budget spend?
+- Continuous Business Owner engagement
+
+
+How is the flow of Portfolio Epics managed?
+- In the Portfolio Kanban
+
+
+What is one benefit of unlocking the intrinsic motivation of knowledge workers?
+- To provide autonomy with purpose, mission, and minimum constraints
+
+What is considered an anti-pattern when assigning business values to Team PI Objectives?
+- A value of 10 given to all of the PI Objectives
+
+The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a "Get out of the office" mindset?
+- Innovation
+
+How are stories estimated in SAFe?
+- Story points
+
+
+What is the foundation of the SAFe House of Lean?
+- Leadership
+
+Who has content authority to make decisions at the user story level during PI Planning?
+- Product Owner
+
+What is a valid reason for moving a PI objective to stretch?  --------------
+- The team does not have the knowledge or skills to deliver the objective
+
+Which practice helps with a test-first mentality?
+- BDD
+
+What are the last three steps of the SAFe Implementation Roadmap?
+- Launch more Agile Release Trains and Value Streams, extend to the portfolio, sustain and improve
+
+What is a Minimal Viable Product?
+- A minimal product that can validate a hypothesis
+
+Which statement is true about DevOps?
+- DevOps is an approach to bridge the gap between development and operations
+
+Who is responsible for the Solution Backlog?
+- Solution Management
+
+What is one of the Agile Release Train sync meetings?
+- Scrum of Scrums
+
+
+What is one component of the Continuous Delivery Pipeline?
+- Continuous Exploration
+
+Which statement describes aspects of the team's commitment during PI Planning? -----------
+- A team does not commit to stretch objectives
+
+
+What is the best measure of progress for complex system development?
+- System Demo
+
+Which statement fits with the SAFe Core Value of Built-in Quality?
+Quality depends on the scale of the project and should be implemented from the top down ???????
+- You cannot scale crappy code
+
+
+What is the biggest benefit of decentralized decision-making? --------------
+- Delivering value in the shortest sustainable lead time
+
+Product Management has content authority over the Program Backlog. What do Product Owners have content authority over?
+- Team Backlog
+
+Which core competency of the Lean Enterprise helps drive built-in quality practices?
+- Team and Technical Agility
+
+
+What can be used as a template for putting SAFe into practice within an organization?
+- SAFe Implementation Roadmap
+
+
+What must management do for a successful Agile transformation?
+- Commit to quality and be the change agent in the system
+
+The Agile Release Train uses which type of teams to get work done?
+- Cross-functional teams
+
+When is a Pre-PI Planning event needed?
+- When multiple Agile Release Trains working on the same Solution need to align and coordinate
+
+Which is an aspect of system thinking?
+- Optimizing a component does not optimize the system
+
+Which statement is true about the Innovation and Planning (IP) Iteration?
+- Without the IP Iteration, there is a risk that the tyranny of the urgent outweighs all innovation activities
+
+
+Which statement is true when continuously deploying using a DevOps model?
+- It lessens the severity and frequency of release failures
+
+When basing decisions on economics, how are lead time, product cost, value, and development expense used? ------------
+- To identify different parameters of the economic framework
+
+
+What is an example of applying cadence-based synchronization in SAFe? ---------------------
+- Teams align their iterations to the same schedule to support communication, coordination, and system integration 
+
+What are the three primary keys to implementing flow? (Choose three.)You have reached the max number of allowed answers
+- Reduce the batch sizes of work
+- Manage queue lengths
+- Visualize and limit WIP
+
+
+Which statement is a value from the Agile Manifesto?
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
+
+What is the recommended frequency for updating Lean budget distribution? -------------
+- On demand 
+
+What is SAFe’s release strategy?
+- Release on demand
+
+
+
+Which two statements are true about uncommitted objectives? (Choose two.)
+- Uncommitted objectives are not included in the team's commitment;
+- Uncommitted objectives help improve predictability;
+
+
+What is the impact of Customer Centricity?
+- To understand the Customer's needs
+
+
+What is Business Agility?
+- The ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business Solutions.
+
+
+Which statement correctly describes one aspect of the team's commitment at the end of PI Planning?
+- A team does not commit to uncommitted objectives
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+
+
+The transformation into a learning organization requires five distinct disciplines, as described by Senge. The best practices for developing these disciplines include: 
+- Personal Mastery
+- Shared Vision
+- Team Learning
+- Mental Models
+- Systems Thinking
+
+
+Learning drives ...
+- innovation
+- leads to greater sharing of information
+- enhances problem-solving
+- increases the sense of community
+- surfaces opportunities for more efficiency
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+# UDEMY - SIMULADO 02
+
+Any organization can begin the journey to a continuous learning culture by focusing its transformation along three critical dimensions:
+- Learning Organization
+- Innovation Culture
+- Relentless Improvement
+
+
+The Release Train Engineer (RTE) learns the teams feel the business value does not reflect the effort and progress. What are two ways the RTE can provide a better understanding of what the teams have created? (Choose two.)
+- Coach the BOs review of objectives to see that scoring is against the specific details negotiated with the team during PI Planning
+- Work with the team to ensure they are actively involved when the BOs scores the business values achieved
+
+
+Which statement is true about the Continuous Delivery Pipeline?
+- It represents the automation needed to move a new piece of functionality from ideation to production
+
+
+What does Dunbar's number provide guidance for in the Scaled Agile Framework?
+- The number of members on a self-managing selg-organing Agile Release Train (ART)
+
+
+In order to leverage the full flow of value which option should be the next Agile Release Train (ART) to launch?
+- A train in the same value stream
+
+
+The team is struggling to agree on the Story point sizing of a new User Story. The Product Owner was previously a related domain expert and feels the team is wasting time. What should she do?
+- Continue to support the team's decision on sizing
+
+
+What are two significant risks that can be understood from the program board? (Choose two.)
+- A Feature has an excess of dependencies and risks associated with it
+- Features are being delivered at the end of the last iteration
+
+
+How can a Release Train Engineer support decentralized decision making?
+- Empower knowledge workers to manage their dependencies with other teams
+
+
+At which two stages will the Agile Release Train (ART) act as a one-team culture? (Choose two.)
+- Norming - Teams begin to form communities
+- Performing - Creating a flow of knowledge across the teams and the ART
+
+
+Which statement is true about Lean Budget Guardrails?
+- They can be qquantitave and qualitative
+
+
+A Release Train Engineer (RTE) would like to try a new retrospective technique at the next Inspect and Adapt event. However, the RTE is unsure how to prepare for it and thinks there may be some pitfalls. How could an RTE get help?
+- Share and receive feedback from other RETs in a commmunity of practice
+
+
+Why was the DevOps and Release on Demand competency renamed to Agile Product Delivery?
+- For Business Agility, a broader focus on Customer Centricity is critical in addicion to DevOps
+
+In a Lean-Agile Center of Excellence (LACE) an argument began between Lee, the Director of Software, and Clair, the Vice President of Human Resources. Clair wants to launch an Efficiency Agile Release Train first since that product was crucial and has a long history of missed deliveries. Lee wants to start with the Simulator Agile Release Train since it is a high- performing group that can transition quickly to SAFe and present a short-term win. Who is right?
+- Clair ir correct because SAFe teams will self-organize and identify areas for improvement throughout their existence
+
+
+How does a Release Train Engineer view the role of functional managers on the Agile Release Train?
+- As developrs of people
+
+Time to market is too long and the team is unsure which part of the process is problematic. What should be done first?
+- Organize a VS mapping workshop and confirm all key participants
+
+SAFe's first Lean-Agile Principle includes 'Deliver early and often' and what else?
+- Deliver value incrementally
+
+Which two areas are affected by changes in strategy?
+- Vision
+- Team backlog
+
+Why is it important to start an Agile Release Train (ART) launch by setting the date for Program Increment (PI) Planning?
+- Because otherwise there is no forcing function
+
+What is a characteristic of an effective Scrum Master?
+- Gives open, honest opinions
+
+Which SAFe tool might the RTE use to identify areas for an ART to improve how its Continuous Delivery Pipeline (CDP) functions?
+- Agile Product Delivery core competency assessment
+
+What are the top two reasons for adopting Agile in an organization? (Choose two.)
+- To accelerate product delivery
+- To enhance the ability to manage changing priorities
+
+What does the double diamond represent in the SAFe Design Thinking illustration?
+- The two divergent and convergent design loops
+
+Niccolo is invited to help a program where, even though not mandated by the external environment, management requires teams to make big, up-front and detailed scope commitments for every release.What are the three things Niccolo can do to best coach the decision-makers? (choose three)
+- Illustrate the power of feedback in content decision-making
+- Explain the understand and exploit variability principle of product development flow
+
+What is the primary purpose of the management review and problem-solving meeting at the end of day one of Program Planning?
+- To make adjustments to the PI scope and address program challenges
+
+Which legacy practice slows the move to Lean Portfolio Management?
+- Centralized annual plaanning
+
+When calculating weighted shortest job first (WSJF), what is the numerator?
+- Cost of Delay
+
+Who can the Release Train Engineer work with to help eliminate policies and procedures that demotivate employees?
+- Lean-Agile Leaders
+
+What is the recommended order of classes and activities when launching an Agile Release Train (ART) using the quickstart approach?
+- SAFe for Teams, Program Increment (PI) Planning, SAFe workshops
+
+What is the first step in the Measure and Grow process?
+- Facilitate self-assessment
+
+Which three attributes summarize DevOps? (Choose three.)
+- A mindset
+- A culture
+- A set of technical practices
+
+When during PI Planning is the ROAM technique used to categorize program risks?
+- Afeter the final plan review
+
+What is one key difference between Customer Centricity and Design Thinking?
+- Customer Centricity focuses on mindset; Design Thinking focuses on practices
+
+An Agile Release Train (ART) is frequently discovering compatibility issues between the developed Solution and the Enterprise information architecture. What can the Release Train Engineer do to prevent this from occurring?
+- Confirm attendance of architectural representatives at Program Increment (PI) Planning
+
+How can hardware engineers enable the evolution of deployed systems?
+- Allocate system responsibilities to upgradeble components
+
+What are two ways Lean Budget Guardrails guide Value Stream investment decisions? (Choose two.)
+- By establishing capacity allocation
+- By requiring approval of large Epics
+
+Who typically facilitates the Agile Release Train (ART) sync meeting?
+- Release Train Engineer (RTE)
+
+When the Lean-Agile Center of Excellence (LACE) acts as an Agile Team, which two team practices are they likely to use? (Choose two.)
+- Run an Iteration Retrospective
+- Plan a Program Increment (PI)
+
+Which two disciplines are necessary for a learning organization? (Choose two.)
+- Mental Models
+- Personal Mastery
+
+What are two areas of focus when coaching the Inspect and Adapt (1&A) event? (Choose two.)
+- Make sure the event finishes with clear improvement items for the Program Backlog
+- Prepare, in advance, the data for the quantitative section
+
+Which two Built-in Quality practices are relevant mainly for technical teams? (Choose two)
+- Architecting and designing to ease testing
+- Unit testing and test-driven development
+
+A customer centric Enterprise uses a foundation of market and user research to create actionable insights into the problems Customers face, the requirements, and the Solution Context. What is the difference between market and user research?
+- Market research drives product strategy; user research drives prodct design
+
+What is one of the responsibilities of the SAFE Program Consultant (SPC) change agent?
+- Coach Realese Train Engineers (RTEs) on their role
+
+How does SAFe describe Customer Centricity?
+- As a mindset
+
+Who is the content authority for an Agile Team?
+- The PO
+
+Some teams are having difficulty identifying where they might make process improvements. How might the RTE support them?
+- Encourage the team to perform regular self-assessment and discuss findings
+
+What are two reasons to manage an implementation plan as a Roadmap? (Choose two.)
+- This form of plan supports preserving options as an aspect of look-ahead planning
+- Organizations, including stakeholders, will more quickly acclimate to, and adopt, an orderly visual plan for transformation
+
+What are two of the SAFe Core Values? (Choose two.)
+- Program execution
+- Transparency
+
+According to John Kotter, what is the importance of creating a powerful guiding coalition?
+- It can build connections between Business and IT
+
+What does an effective Scrum Master help the team with?
+- Relentless improvement
+
+
+Which Design Thinking tool is used to illustrate the experience a user has when engaging with a company’s operational Value Stream?
+- Customer journey map
+
+
+
+
+How does SAFe recommend using a second operating system to deliver value? (to review)
+- Create teams to focus on innovation and growth and break down the existing organizational structures
+
+Why has the SAFe House of Lean changed in SAFe 5.0? (to review)
+- To create a new goal of Business Agility
+
+When expressing Strategic Themes as objectives and key results what are the key results?  (to review)
+- A set of Metrics that measure progress towards the Strategic Theme
+
+Which aspect of strategy and investment funding involves developing and communicating the Strategic Themes throughout the portfolio? (to review)
+- Connect the portfolio to the Enterprise strategy
+
+
+
+
+
+
+
+
