@@ -701,18 +701,227 @@ Which Design Thinking tool is used to illustrate the experience a user has when 
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 
-How does SAFe recommend using a second operating system to deliver value? (to review)
+# UDEMY - SIMULADO 03
+
+
+In order to evolve the role of a leader in SAFe, which practices can the Release Train Engineer (RTE) recommend?
+- Encourage personal development
+
+What are two examples of team-level events? (Choose two.)
+- Backlog refinement
+- Daily Stand-up
+
+During Program Increment (PI) Planning, a scrum of scrums occurs just before the draft plan review. The Scrum Master from one team raises an issue that one of the Product Managers just showed up to the planning area with a priority wish list of items. These items do not align with the Feature prioritization. What is the most likely planning anti-pattern causing this sudden impediment?
+- Prioritization by PM was performed autonomously not collaboratively
+
+What falls outside the Scrum Master’s responsibility? (Choose two.)
+- Assigning stories to team members
+- Estimating stories for the team
+
+What is the call to action when promoting SAFe during a meeting with company executives?
+- Lauch one pilot ART and then learn and adapt
+
+
+What are two conditions to look for when coaching an ART sync meeting? (Choose two.)
+- Look-aheaad planning and discussion for the next Program Increment (PI) is not occuring
+- Feature completion is not occuring within the current Porgram Increment (PI) as planned and re-planningg of iterations is not occcuring
+
+At the end of day two of the Program Increment (PI) Planning event, the team's final plan review covers what information?
+- Changes to capacity and load, final PI objectives program risks and impediments
+
+What do Agile Release Trains (ARTS) realize?
+- Develop. Value Streams
+
+During Pl Planning, who owns the planning of Stories into Iterations?
+- Agile Teams
+
+Which statement is true about estimating Features using Story points?
+- More than one team may be involved in the estimations
+
+What is one purpose of iterations?
+- To provide a regular cadence for producing increments of value
+
+Which statement is true about estimating and forecasting the Portfolio Backlog?
+- Features estimates are rolled up into epic estimates
+
+Why would a Release Train Engineer use an Iteration and Program Increment Calendar?
+- To visualize the ARTs cadence and synchronization
+
+What is one of the questions the Product Management team must answer in order to create a Vision?
+- Wich problem will the Solution solve
+
+Which of the following is true about the ART sync event?
+- It is a combination of PO-synch and Scrum of Scrum events
+
+Which responsibility belongs to the Product Owner?
+- Prioritizing the Team Backlog
+
+When planning for a distributed Program Increment (PI) Planning event with a large difference in time zones, what are two key preparation and facilitation focus areas for a Release Train Engineer (RTE)? (Choose two.)
+- Adjust the PI agenda to 2.5 - 3 days allowing for overlapping hours
+- Arrange and test presentation audio and video connectivity in all locations
+
+What is an example of applying cadence and synchronization in SAFe?
+- Conducting a Program Increment (PI) Planning meeting
+
+There are two Value Streams in SAFe. One is the Operational Value Stream. What is the other?
+- Dev. value Stream
+
+What is this statement defining: "A series of activities that have proven to be effective in successfully implementing SAFe"?
+- The SAFe Implement. Roadmap
+
+What are two ways to ensure facility readiness when preparing for the Program Increment (PI) Planning event? (Choose two.)
+- Engage audio-visual technical support
+- Secure communication channels for remote participants
+
+What is the importance of Agile Human Resources (HR)?
+- It provides ways to hire, engage and retain people that fit in an Agile environment
+
+What is the most accurate definition of DevOps?
+- A mindset, culture, and set of technical practices taht emphasizes close cooperation to provide value to the Customer
+
+In addition to Innovation and Planning, what else does the IP Iteration provide time for?
+- An estimating guard band
+
+Which of the Core Competencies of Business Agility emphasizes a customer-centric approach to defining, building, and releasing a continuous flow of valuable products and services?
+- Agile Product Delivery
+
+Relentless improvement, as defined in the Scaled Agile Framework, includes which two activities? (Choose two.)
+- Reflecting at key Milestones
+- Applying lean problem-solving tools and techniques
+
+What are two benefits of 'big room training'? (Choose two.)
+- Everyone on the train hears the same message
+- It accelerates launch timelines
+
+What are the three key items communicated on the Program Board? (Choose three.)
+- Dependencies between teams
+- Milestones
+- Features delivery dates
+
+Which tool can the Release Train Engineer use to visualize the flow of value?
+- Kanban Systems
+
+Which statement is true about the retrospective and problem-solving part of the Inspect and Adapt workshop?
+- Key Agile Release Train stakeholders, including BOs, customers and managements can participate along with the teams
+
+In SAFe, which activity is a Scrum Master's responsibility?
+- Coordinating with other teams
+
+Communicating the Vision to the Agile Release Train during Program Increment Planning supports which SAFe Core Value?
+- Alignment
+
+Which three topics are covered on the first day of the Program Increment (PI) Planning event? (Choose three.)
+- Product / Solution Vision
+- Business Context
+- Architecture Vision and development practices
+
+What should the Release Train Engineer do during the final plan review on Day two of Program Increment (PI) Planning?
+- Facilitate all teams wen they are presenting their final plans to the wntire Agile Release Train
+
+What is the target percentage for the program predictability measure?
+- 80-100%
+
+How can an organization gain trust between the business and the development?
+- Deliver predictability
+
+In the SAFe work item hierarchy, Epics are decomposed into what?
+- Features
+
+What is one issue when organizing around hierarchical functions?
+- It is not how value flows
+
+At the end of Program Increment (PI) Planning after dependencies are resolved and risks are addressed, a confidence vote is taken. What is the default method used to vote?
+- Fist of five
+
+An Inspect and Adapt (1&A) event is occurring and a program is trying to address a long-existing problem-unreliable Prog (Pl) commitments. One of the participants suggests that they are working on too many things at one time. What aspect of the program causes uncontrollable amounts of work in process (WIP)?
+- Items in the Program Backlog are large chubks of work at different layers of the system instead of true Features
+
+What action can result in reduced collaboration between teams during the Program Increment (PI) Planning event?
+- Overprepare for PI planning
+
+A new Agile Release Train is formed and Lee is the new coach. All members of the train are new to Agile. After three iterations Lee is hearing that many of the teams are having problems running their team events. He does not have time to attend the events for all teams. What two things can she do? (Choose two.)
+- Attend the Iteration Retrospectives as this will give him the most opportunity to help 
+- Coach the Scrum Masters by establishing a CoP
+
+What is a key characteristic lean-agile leaders need to have when implementing SAFe?
+- Undestanding and exhibiting the values, principles and practices
+
+Which core competency describes the ability to deliver continuous value?
+- Agile Product Delivery
+
+What practice can help to identify bottlenecks in the flow of work?
+- Modeling overall process flow during value stream identification
+
+The goal of Lean is to deliver the maximum customer value in the shortest sustainable lead time while providing what else?
+- The highest possible quality
+
+Which three statements are true about the role of Lean-Agile Leaders?(Choose three.)
+- They lead by example
+- They lead the change
+- They exemplofy the Lean-Agile mindset, values and principles
+
+What should be used to reinforce the basics in the accelerate step of the Implementation Roadmap?
+- Applying learning accross the Enterprise
+
+Teams are reporting a high level of success through their individual quantitative measurements, but the system results say otherwise. What should the Release Train Engineer do to help the teams deliver more value?
+- Coach the SMs on good retro techniques and ensure teams are defining and taking a systems view approach to improvements
+
+
+Which three actions are needed to launch an Agile Release Train (ART)?(Choose three.)
+- Decide iteration and Program Increments cadence
+- Identify the RTE
+- Identify who will set the business context
+
+Which two practices are most important for the Agile Release Train to best support Release on Demand? (Choose two.)
+- Decouple deployment from release
+- Continuous integration
+
+What is the best way for a Release Train Engineer to support teams having challenges with problem identification and decision making?
+- By listening to the team
+
+How does SAFe provide a second operating system that enables Business Agility?
+- By focusing on customers, products, innovation and growth
+
+What might an RTE do to embrace relentless improvement and a growth mindset as an individual?
+- Identify personal challenges and create personal actions to be taken
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+
+(to review) What primary reason for change makes it easiest to drive a transformation across the Enterprise?
+- The competition has made this change (???)
+
+
+(to review) Why is it important to train Product Owners and Product Management before launching the Agile Release Train (ART)? 
+- To have a better prepared initial Program Backlog for the first Program Increment (PI) Planning  (???)
+
+
+(to review) Lean Portfolio Management, Organizational Agility, and which other competency are part of the strategy side of the SAFe Business Agility overview?
+- Team and technical agility 
+- Continuous learning culture (incorrect ???)
+
+Why were the SAFe Team and Program levels combined into the Essential level in SAFe 5.0?
+- To focus SAFE 5.0 on Business Agility not team Agility 
+- To explain that implementing teams without Agile release Trains is not a good practice at scale (incorrect ???)
+
+
+(to review) How does SAFe recommend using a second operating system to deliver value?
 - Create teams to focus on innovation and growth and break down the existing organizational structures
 
-Why has the SAFe House of Lean changed in SAFe 5.0? (to review)
+(to review) Why has the SAFe House of Lean changed in SAFe 5.0? 
 - To create a new goal of Business Agility
 
-When expressing Strategic Themes as objectives and key results what are the key results?  (to review)
+(to review) When expressing Strategic Themes as objectives and key results what are the key results?  
 - A set of Metrics that measure progress towards the Strategic Theme
 
-Which aspect of strategy and investment funding involves developing and communicating the Strategic Themes throughout the portfolio? (to review)
+ (to review) Which aspect of strategy and investment funding involves developing and communicating the Strategic Themes throughout the portfolio?
 - Connect the portfolio to the Enterprise strategy
+
+
 
 
 
