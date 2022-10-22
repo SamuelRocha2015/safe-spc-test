@@ -888,8 +888,214 @@ What might an RTE do to embrace relentless improvement and a growth mindset as a
 - Identify personal challenges and create personal actions to be taken
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+# UDEMY 4
+
+Why is it helpful to communicate newly refined Features and Enablers to the teams during the current Program Increment (PI)?
+- Teams can review the Features and Enablers so they have an understanding of the Roadmap for the next PI
+
+Why do teams have an Iteration retrospective?
+- To adjust and identigy ways to improve
+
+Which core competency best describes the critical skills of Scrum, Kanban, and the Built-in Quality practices that are needed to manage the flow of value?
+- Team and Tech Agility
+
+Product Management has content authority for the Program Backlog including: the Vision, the Roadmap, driving the Pl Objectives, and what else?
+- Establishing Features and benefit hypotheses
+
+What are two purposes of the System Demo? (Choose two.)
+- To demostrate the full solution in a production-like context
+- To get feedback from the primary stakeholders
+
+What is the foundation of the SAFe House of Lean?
+- Leadership
+
+What is the name of the event where all team members determine how much of the team's backlog they can commit to delivering during an upcoming Iteration?
+- Iteration Planning
+
+Who provides Agile Release Train context and Vision during Pl Planning?
+- Product Management
+
+The Release Train Engineer (RTE) is to attend multiple reviews and status meetings to discuss the Agile Release Train's (ART) progress at the end of each Iteration. What action could the RTE take to manage expectations?
+- Encourage interested parties to attend the System Demo
+
+How can a Release Train Engineer help unlock intrinsic motivation?
+- Give tough feedback supportively and be willing to be more vulnerable
+
+What are two responsibilities of the Release Train Engineer during Program Increment (PI) execution? (Choose two.)
+- To escalete and track impediments
+- To facilitate the System Demo
+
+Which two key skills does a Release Train Engineer bring to economic prioritization? (Choose two.)
+- Uderstand and facilitate weighted shortest job first
+- Facilitate stakeholder collaboration
+
+Product Management is expected to collaborate in planning the amount of upcoming Enabler work by establishing what?
+- Capacity Allocation
+
+What are two main reasons why the program predictability measure is important? (Choose two.)
+- It focuses the Agile Release Train on predictable value delivery
+- It dentifies under-performing teams
+
+When should Agile Teams make time for innovation?
+- Continuously throughout the Program Increment (??)
+
+How often should a system demo occur?
+- After every iteration 
+
+Which behavior exemplifies servant leadership?
+- Creating an environment of mutual inffluence
+
+What is included in the Inspect and Adapt agenda?
+- Quantitative and qualitative measurement
+
+Scrum Masters are effective by using scrum methods, supporting SAFe principles and practices, and what else?
+- Supporting delivery using Agile practices
+
+Which two actions must the Release Train Engineer (RTE) take when facilitating the Program Increment (PI) Planning event? (Choose two.)
+- Ensure the facilities are set up appropriately
+- Distribute the PI Planning agenda to the Agile Teams
+
+After an Agile Release Train's first Program Increment (PI) Planning event, what action can the Release Train Engineer take to help optimize the Program Backlog readiness for the next PI?
+- Coach the PM and the Syst Architect to include Program Backlog refinement into their cadence-based approach
+
+What is one primary responsibility of a Release Train Engineer?
+- Manage and optimize the flow of value through the Agile Release Train 
+
+What is the primary purpose of PO sync?
+- To assess progress of the Program Increment and adjust scope and priority as needed
+
+Which core competency helps foster faster lead time, faster recovery, fewer defects, and more frequent deployments?
+- Agile Product Delivery
+
+Which role should the Release Train Engineer play related to a hackathon event?
+- Allow the teams as much flexibility as possible to promote innovation
+
+Several Scrum Masters seem to be deadlocked in a disagreement on what to do about a shared issue. What is an appropriate coaching technique for the RTE to use?
+- Asking powerful qquestions to invite creativity and new possibilities
+
+Which three SAFe roles help coordinate between multiple Agile Release Trains (ARTs) within a Value Stream? (Choose three.)
+- Solution Train Engineer (STE)
+- Solution Architect
+- Solution Management
+
+In what way is a value stream map different from a process flow?
+- A value stream map measures the flow of value and identifies bottlenexks for improvement
+
+While facilitating Program Increment (PI) Planning readiness activities, the Release Train Engineer (RTE) notices a Feature that is risky to the teams because the technology is new. Which of the following could reduce the risk?
+- Coach the teams to create exploration Enablers
+
+Why launch an ART using the quickstart approach?
+- It increases engagement and focuses everyone all at once and with purpose and intent
+
+What is the best way to foster flow of value, innovation, and apply Lean budgeting in the Enterprise?
+- Implement the LPM core competency
+
+Why should an RTE ensure that the SAFe principles are applied appropriately?
+- To build an understanding of why the lean-agile practices work
+
+What is an example of Scrum Master servant leader behavior?
+- uses persuasion intead of authoriyy
+
+Why is the problem-solving workshop more effective than traditional lessons learned documents?
+- It makes improvements actionable through backlog items for the next program increment
+
+What can occur as a result of not having an Innovation and Planning Iteration?
+- Thecnical debt can groww ujncontrollably
+
+Which two behaviors should a Scrum Master represent as a coach? (Choose two.)
+- Encourage the team to learn from their mistakes
+- Set long-term goal for the team
+
+Which two activities take place during Team Breakout #1 on the first day of Program Increment (PI) Planning? (Choose two.)
+- Draft objectives and uncommited objectives are written
+- All teams'planning boards are visible and use the same color-coding
+
+What are three actions to take to support a Continuous Integration (CI) culture? (Choose three.)
+- Make integration results visible
+- Integrate often 
+- Ensure fixing a failed integration attempt is always the top priority
+
+Ann is invited to help an Agile Release Train (ART) that is struggling. They just finished the second Iteration in the Program Increment (PI) and have nothing to demonstrate at the System Demo. What steps might Ann recommend?
+- Stop working on any new functionality and fully integrate and test the system; adjust scope based on learnings
+
+What are two benefits of having a team definition of done? (Choose two.)
+- To gauge team predictability
+- To improve quality
+
+What is the only true objective measure of an Agile Release Train?
+- System demo
+
+During Program Increment (PI) execution, the System Team is unclear about how to test some of the larger Features. What should a Release Train Engineer do?
+- Encourage the System Team and PM to meet and collaborate on a solution
+
+Which statement is true about nonfunctional requirements?
+- They operate as constraints on the design of the System
+
+When does the Plan-Do-Check-Adjust cycle occur in scrum?
+- Across all scrum events
+
+What is the right use for the Introducing SAFe resource?
+- Introduce stakeholders to SAFe to drive interest in SAFe training
+
+Which two items should be kept under version control? (Choose two.)
+-Test data
+- Configuration Items
+
+What action does a Release Train Engineer take prior to an upcoming Program Increment (PI) Planning meeting?
+- Facilitate PM and other stakeholders in priorization of the Program Backlog
+
+What is this statement describing? "Agile Teams continuously adapt to new circumstances and enhance the methods of value delivery."
+- COntinuous improvement
+
+When should a Product Owner (PO) develop preliminary Iteration Goals?
+- Prior to iteration planning
+
+Which activity occurs during the Agile Release Train (ART) Inspect and Adapt (1&A) event?
+- Program predictability measure update
+
+What best describes what stream-aligned teams do?
+- Build and deliver customer value with minimal dependencies on other teams
+
+What does assigning business value to a team's Pl Objectives influence?
+- How teams plan the implementation
+
+What are two purposes of a community of practice? (Choose two.)
+- To share knowloedge and skills
+- TO network
+
+Product Management is responsible for which activity?
+- Defining Program Backlog content
+
+Enabler Epics are used to advance what in order to support upcoming Business Epics?
+- The Architectureal Runway
+
+Why is it recommended to start with Essential SAFe?
+- Team and ART agility must be in place beforem portfolio practices can be implemented
+
+The team's draft plan review consists of which three items at the end of the first day of the Program Increment (PI) Planning event? (Choose three.)
+- Capacity and load estimates
+- Risk and impediments
+- Draft PI Objectives
+
+The Agile Release Train (ART) is near the end of the final Iteration of their first Program Increment. Integration into staging is more challenging than estimated. They add a week to the Innovation and Planning (IP) Iteration for integration and testing. Why is this a bad idea?
+- It reduces the overall predictability established through cadence and synchronization
+
+What is an anti-pattern for a Release Train Engineer facilitating a scrum of scrums meeting?
+- Review individual team performance
+
+
+
+
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+(to review) Which activity takes place during Team Breakout #2 on the second day of Program Increment (PI) Planning?
+- All Feature delivery and dependencies are visualized on the program board (RTE 88%)
+- BOs assign business value without team discussion so they can normalize business value across all teams on the Agile release Train (????)
 
 
 (to review) What primary reason for change makes it easiest to drive a transformation across the Enterprise?
